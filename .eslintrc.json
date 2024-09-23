@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "office-addins"
+  ],
+  "extends": [
+    "plugin:office-addins/react"
+  ], 
+  "globals": {
+  "fetch": false,
+  "console": false,
+  "Word": false
+}
+}
