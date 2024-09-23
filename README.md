@@ -9,6 +9,9 @@ Should see 3 templates inside the sidebar taskpane Basic contract, Advanced Cont
 ## How the app works
 As you click on the 3 contracts they cycle through the word document
 
+## Main Components to look through
+The HeroList components is what renders inside the side task pane. App component is the projects home file
+
 ## Stop the application
 run npm stop in the projects route Directory to stop the application
 
